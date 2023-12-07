@@ -1,5 +1,5 @@
 let adjective = prompt('Enter an adjective:')
-let noune = prompt('Enter an noun:')
+let noun = prompt('Enter an noun:')
 let verb = prompt('Enter an verb:')
 let adverb = prompt('Enter an adverb:')
 
