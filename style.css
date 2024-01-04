@@ -10,21 +10,27 @@ body {
 }
 
 header, footer {
-    background-color: #3498db;
+    background-color: rgb(46, 63, 48);
     color: #fff;
     padding: 10px 0;
     text-align: center;
+    font-family: 'Noto Serif', serif;
 }
 
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    background-color: rgb(46, 63, 48);
+
 }
 
 #madLibOutput {
     padding: 20px;
     text-align: center;
+    font-family: 'DM Serif Display', serif;
+font-family: 'Long Cang', cursive;
+font-size: 30px;
 }
 
 /* Add more styles based on your creativity and design preferences */
